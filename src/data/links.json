@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/"
+  },
+  {
+    "id": 2,
+    "title": "Place to stay",
+    "link": "/places"
+  },
+  {
+    "id": 3,
+    "title": "NFTs",
+    "link": "#nfts"
+  },
+  {
+    "id": 4,
+    "title": "Community",
+    "link": "/"
+  }
+]

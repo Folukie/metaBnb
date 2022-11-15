@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "image": "/images/frame-1.png"
+  },
+  {
+    "id": 2,
+    "image": "/images/frame-2.png"
+  },
+  {
+    "id": 3,
+    "image": "/images/frame-3.png"
+  },
+  {
+    "id": 4,
+    "image": "/images/frame-4.png"
+  },
+  {
+    "id": 5,
+    "image": "/images/frame-5.png"
+  },
+  {
+    "id": 6,
+    "image": "/images/frame-6.png"
+  },
+  {
+    "id": 7,
+    "image": "/images/frame-7.png"
+  },
+  {
+    "id": 8,
+    "image": "/images/frame-8.png"
+  }
+]
